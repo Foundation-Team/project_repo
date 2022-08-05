@@ -122,6 +122,11 @@ Car_Accessory_Management_Systm
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Car_Accessory_Management_Systm.My.Resources.Resources.loan">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Car_Accessory_Management_Systm.My.Resources.Resources.Login_Logo">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -133,6 +138,11 @@ Car_Accessory_Management_Systm
 </summary>
 </member>
 <member name="P:Car_Accessory_Management_Systm.My.Resources.Resources.Main_Login_copy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Accessory_Management_Systm.My.Resources.Resources.mortgage_loan">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
